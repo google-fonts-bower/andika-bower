@@ -1,0 +1,17 @@
+{
+    "name": "andika-googlefont",
+    "license": "OFL",
+    "authors": [
+        "SIL International"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/andika-bower.git"
+    },
+    "description": "Andika font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
